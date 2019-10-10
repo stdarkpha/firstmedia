@@ -1,8 +1,8 @@
 var swiper = new Swiper('.swiper-container', {
-  // autoplay: {
-  // 	delay: 6000,
-  //   disableOnInteraction: false,
-  // },
+  autoplay: {
+   	delay: 6000,
+     disableOnInteraction: false,
+  },
   scrollbar: {
     el: '.swiper-scrollbar',
     hide: true,
